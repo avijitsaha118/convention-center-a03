@@ -1,0 +1,16 @@
+.convention-bg-info{
+    background-color: E5E5E5;
+}
+.catagories img{
+    width: 100px;
+}
+
+.plan-btn-buy-now{
+    background-image: linear-gradient(to bottom, #e7dca9 0%, #a4e09e 100%);
+    color: blue;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+
+
+}
